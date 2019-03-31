@@ -20,6 +20,7 @@ export const BodyContainer = styled.div`
 `;
 
 export const ProfileImage = styled.img`
+  margin: 50px;
   border-radius: 100%;
   width: 230px;
 `;

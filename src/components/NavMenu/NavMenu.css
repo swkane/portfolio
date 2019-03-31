@@ -1,3 +1,9 @@
 #nav-menu {
   background-color: #77b1ed;
 }
+
+#nav-menu a {
+  color: white;
+  margin: 10px;
+  font-weight: bolder;
+}
