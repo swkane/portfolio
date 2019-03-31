@@ -5,7 +5,7 @@ import "./App.css";
 
 import NavMenu from "./components/NavMenu/NavMenu";
 import { Me } from "./components/Me/Me";
-import { Portfolio } from "./components/Portfolio/Portfolio";
+import Portfolio from "./components/Portfolio/Portfolio";
 import { Skills } from "./components/Skills/Skills";
 import { Contact } from "./components/Contact/Contact";
 
