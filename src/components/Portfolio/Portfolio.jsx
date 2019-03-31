@@ -40,7 +40,7 @@ const Portfolio = () => {
   ];
 
   return (
-    <Card.Group itemsPerRow={2}>
+    <Card.Group id="portfolio-container" itemsPerRow={2}>
       {content.map((card, i) => (
         <Card key={i}>
           <Image src={card.image} />
