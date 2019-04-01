@@ -17,6 +17,7 @@ export const HeaderItem = styled.a`
 
 export const BodyContainer = styled.div`
   margin: 60px auto;
+  text-align: center;
 `;
 
 export const ProfileImage = styled.img`

@@ -2,6 +2,10 @@
   background-color: #2d649e;
 }
 
+.page-container {
+  padding: 10px 50px;
+}
+
 .App {
   text-align: center;
 }
